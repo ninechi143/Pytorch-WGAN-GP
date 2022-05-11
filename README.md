@@ -4,6 +4,8 @@ This is a private Pytorch practice for the WGAN-GP implementation.
 
 By the way, I use the MNIST dataset as our training data.
 
+If you want to customize your own dataset, please revise the code in `*_dataset.py` and `load_data()` API in `trainer.py`.
+
 Hope this code can help you who find this repo. :)
 
 
